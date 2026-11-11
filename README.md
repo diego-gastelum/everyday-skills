@@ -6,7 +6,7 @@ Each skill works in Claude, and most come with a plain prompt you can paste into
 
 ## Skills
 
-- [article-quiz](article-quiz/): quizzes you on something you just read, then has you explain it in your own words. [Download](https://github.com/diego-gastelum/everyday-skills/raw/main/downloads/article-quiz.zip)
+- [article-quiz](article-quiz/): tests whether you understood what you just read, then has you explain it in your own words. [Download](https://github.com/diego-gastelum/everyday-skills/raw/main/downloads/article-quiz.zip)
 
 ## License
 
