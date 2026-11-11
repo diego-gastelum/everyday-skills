@@ -2,33 +2,11 @@
 
 Small AI skills for everyday tasks, ones I use myself. Each one does one job. I only add one here after I've used it for a while.
 
-## article-quiz
+Each skill works in Claude, and most come with a plain prompt you can paste into ChatGPT or any other chatbot. Open a skill's folder for what it does and how to install it.
 
-Quizzes you on something you just read. You already read it, so it asks before it explains anything.
+## Skills
 
-It has you sum up the piece in two or three sentences, then asks three open questions, one at a time. Each answer gets graded right, partly right, or wrong, with a quote from the article showing what it actually says. Miss one and you get a hint and a second try. At the end you explain the idea in your own words and it marks what's wrong or missing. It doesn't rewrite it for you.
-
-Say "deep" for five to seven questions instead of three.
-
-The idea comes from the Feynman Technique. Explaining something in plain words shows you where you don't understand it yet.
-
-### Install
-
-**Claude (web, desktop, mobile, and the Chrome side panel)**
-
-1. Download [`downloads/article-quiz.zip`](downloads/article-quiz.zip).
-2. In Claude, go to Customize > Skills, click +, then Upload a skill, and pick the zip. On some accounts it's under Settings > Capabilities > Skills.
-3. Open an article and say "quiz me." In the Claude in Chrome side panel it reads the page you have open.
-
-**Claude Code**
-
-Copy the `article-quiz` folder into `~/.claude/skills/`, then say "quiz me on" and the link.
-
-**ChatGPT, Gemini, or any other chatbot**
-
-Copy the text of [`article-quiz/prompt.md`](article-quiz/prompt.md), paste it in, then paste the article. A link works only if your chatbot can open web pages.
-
-Works on Mac and Windows.
+- [article-quiz](article-quiz/): quizzes you on something you just read, then has you explain it in your own words.
 
 ## License
 
