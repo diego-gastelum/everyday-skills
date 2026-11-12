@@ -8,6 +8,8 @@ Each skill works in Claude, and most come with a plain prompt you can paste into
 
 - [article-quiz](article-quiz/): tests whether you understood what you just read, then has you explain it in your own words. [Download](https://github.com/diego-gastelum/everyday-skills/raw/main/downloads/article-quiz.zip)
 
+- [study-deck](study-deck/): for things you want to remember. You explain it first, it turns the gaps into cards, and reviews come back on a Leitner schedule. Claude Code only. [Download](https://github.com/diego-gastelum/everyday-skills/raw/main/downloads/study-deck.zip)
+
 ## License
 
 [CC BY 4.0](LICENSE). Use and change these however you like. If you share them, credit Diego Gastelum.
